@@ -19,6 +19,21 @@
     "resetBtn": "RESET",
     "editNameField": "Default Counter",
     "editNameFieldLabel": "Edit Counter Title:",
-    "blackBtn": "['-1', '-2', '-3', '1', '2', '3']"
+    "defaultNumberBlackBtn": 6,
+    "blackBtn": [
+      "-1",
+      "-2",
+      "-3",
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "defaultCounterFunctionality": {
+    "countValue": "0",
+    "countValueTC040": "-1",
+    "countValueTC041": "2",
+    "inputMin": "1",
+    "inputMax": "9"
   }
 }
