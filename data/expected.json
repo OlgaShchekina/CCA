@@ -11,7 +11,9 @@
   "counter": {
     "counterName": "1. Default Counter",
     "lowerLimitField": "CHANGE STEP OPTIONS?",
+    "lowerInputField": "1",
     "upperLimitField": "CHANGE STEP OPTIONS?",
+    "upperInputField": "3",
     "countValue": "0",
     "deleteBtn": "DELETE",
     "resetBtn": "RESET",
